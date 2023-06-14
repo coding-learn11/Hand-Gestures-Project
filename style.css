@@ -1,0 +1,41 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#heading {
+    background-color: rgb(82, 70, 50);
+    color: beige;
+    border-radius: 25px;
+    width: 400px;
+    height: 75px;
+}
+
+#explanation {
+    font-weight: bold;
+}
+
+#capture_image {
+    background-color: rgb(248, 126, 162);
+    border-radius: 25px;
+    border-color: rgb(248, 126, 162);
+    width: 125px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#identify {
+    background-color: rgb(248, 126, 162);
+    border-radius: 25px;
+    border-color: rgb(248, 126, 162);
+    width: 125px;
+    height: 30px;
+    font-weight: bold;
+}
+
+#camera #result {
+    width: 350px;
+    height: 300px;
+    border-width: 2px;
+    border-style: double;
+    border-color: black;
+}
