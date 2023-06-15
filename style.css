@@ -32,9 +32,17 @@ body {
     font-weight: bold;
 }
 
-#camera #result {
-    width: 350px;
-    height: 300px;
+#camera {
+    width: 353px;
+    height: 273px;
+    border-width: 2px;
+    border-style: double;
+    border-color: black;
+}
+
+#result {
+    width: 353px;
+    height: 273px;
     border-width: 2px;
     border-style: double;
     border-color: black;
