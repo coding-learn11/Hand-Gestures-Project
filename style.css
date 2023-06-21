@@ -47,3 +47,11 @@ body {
     border-style: double;
     border-color: black;
 }
+
+#hand_gesture_name {
+    font-size: large;
+}
+
+#hand_gesture_icon {
+    font-size: 50px;
+}
